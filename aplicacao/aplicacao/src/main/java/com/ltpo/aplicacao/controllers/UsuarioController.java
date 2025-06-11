@@ -25,4 +25,5 @@ public class UsuarioController {
     }
 
     // Outros endpoints (GET por ID, PUT, DELETE)
+
 }
